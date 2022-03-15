@@ -1,0 +1,12 @@
+@import './reset.css';
+@import './fonts.css';
+@import './header.css';
+@import './footer.css';
+@import './main.css';
+
+body {
+  font-family: 'OpenSans';
+  font-size: 14px;
+  background-color: #333;
+  color: white;
+}
